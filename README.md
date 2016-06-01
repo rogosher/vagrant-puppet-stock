@@ -1,6 +1,7 @@
-# ABMCI
+# vagrant-puppet-stock
 
-Development repository for the ABMCI mod.
+Repository containing a stock Vagrant project that uses Puppet along with r10k
+to orchestrate Puppet's modules.
 
 ## Develop
 
